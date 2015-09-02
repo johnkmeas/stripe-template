@@ -20,6 +20,9 @@ gem 'bootstrap-sass'
 # Use stripe for e_commerce payments
 gem 'stripe', :git => 'http://github.com/stripe/stripe-ruby'
 
+# Figaro gem for securely managubg credential
+gem 'figaro'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
